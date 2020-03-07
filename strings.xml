@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Astrology</string>
+    <string name="title_activity_kundali_data">KundaliDataActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_kundali_output">KundaliOutputActivity</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="birthdetail">Birth Detail</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="place">Place</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="timezone">Timezone</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="ayanamsha">Ayanamsha</string>
+    <string name="lagnaChart">Lagna Chart</string>
+    <string name="navamshaChart">Navamsha Chart</string>
+    <string name="moonChart">Moon Chart</string>
+    <string name="chalitChart">Chalit Chart</string>
+    <string name="panchang">Panchang</string>
+    <string name="day">Day</string>
+    <string name="tithi">Tithi</string>
+    <string name="yog">Yog</string>
+    <string name="nakshatra">Nakshatra</string>
+    <string name="karan">Karan</string>
+    <string name="ashtakootMatchingPoints">Ashtakoot Matching Points</string>
+    <string name="conclusion">Conclusion:</string>
+    <string name="gunMilan">Gun Milan</string>
+
+    <!--    gan milan-->
+    <string name="gun">Gun</string>
+    <string name="max">Max</string>
+    <string name="obtained">Obtained</string>
+    <string name="discription">Discription</string>
+    <string name="varna">Varna</string>
+    <string name="vashya">Vashya</string>
+    <string name="tara">Tara</string>
+    <string name="yoni">Yoni</string>
+    <string name="maitri">Maitri</string>
+    <string name="bhakat">Bhakat</string>
+    <string name="nadi">Nadi</string>
+    <string name="total">Total</string>
+
+    <!--    manglik report-->
+
+    <string name="manglikReport">Manglik Report</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="manglikPR">Manglik Present Rule</string>
+    <string name="basedOnAsp">Based On Aspect</string>
+    <string name="basedOnHouse">Based On House</string>
+
+    <!--    manglik cancel rule-->
+
+    <string name="manglikCancelRule">Manglik Cancel Rule</string>
+    <string name="marsCancel">Mars Canceled</string>
+    <string name="manglikStatus">Manglik Status</string>
+    <string name="percentage_manglik_present">Percentage Manglik Present</string>
+    <string name="percentage_manglik_after_cancellation">Percentage Manglik After Cancellation</string>
+
+
+    <!--    numerology-->
+
+    <string name="numerology">Numerology</string>
+    <string name="destinyNumber">"Destiny Number"</string>
+    <string name="radicalNumber">Radical Number</string>
+    <string name="nameNumber">Name Number</string>
+    <string name="evilNumber">Evil Number</string>
+    <string name="favColor">Favourite Color</string>
+    <string name="favDay">Favourite Day</string>
+    <string name="favGod">Favourite God</string>
+    <string name="favMantra">Favourite Mantra</string>
+    <string name="favMetal">Favourite Metal</string>
+    <string name="favStone">Favourite Stone</string>
+    <string name="favSubstone">Favourite Substone</string>
+    <string name="friendlyNum">Friendly Number</string>
+    <string name="neuralNum">Neural Number</string>
+    <string name="radicalNum">Radical Number</string>
+    <string name="radicalRuler">Radical Ruler</string>
+
+
+<!--    papasamayam-->
+
+    <string name="rahuPapa">Rahu Papa</string>
+
+
+</resources>
