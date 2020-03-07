@@ -88,8 +88,28 @@
 
 
 <!--    papasamayam-->
+    <string name="papasamayam">Papasamayam</string>
+    <string name="rahuPapa">Rahu Papasamayam</string>
+    <string name="sunPapa">Sun Papasamayam</string>
+    <string name="saturnPapa">Saturn Papasamayam</string>
+    <string name="marsPapa">Mars Papasamayam</string>
 
-    <string name="rahuPapa">Rahu Papa</string>
+<!--    Pitra Dosh-->
+    <string name="pitraDosh">Pitra Dosh</string>
+    <string name="isPitraDoshPR">Dosh Present</string>
 
+<!--kalsarp-->
+    <string name="kalsarp">Kal-Sarp</string>
+    <string name="isKalsarpPR">Kal-Sarp Present</string>
+    <string name="kalataraSaturn">Kalatara By Saturn</string>
+    <string name="kalataraRahuketu">Kalatara By Rahuketu</string>
 
+<!--    mangaldosh-->
+
+    <string name="mandalDosh">Mangal Dosh</string>
+    <string name="moon">Moon</string>
+    <string name="saturn">Saturn</string>
+    <string name="rahu">Rahu</string>
+    <string name="isMangalDosh">Mangal Dosh Present</string>
+    <string name="score">Score</string>
 </resources>
